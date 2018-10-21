@@ -3,7 +3,6 @@
 JEKYLL_BIN="/usr/local/rvm/gems/ruby-2.4.1/bin/jekyll"
 GIT_BIN="/usr/bin/git"
 GIT_URL="git@git.shenyu.me:shenyu/shenyu.me.git"
-GIT_CLONE_DEST="/usr/share/nginx/html/github-webhook-handler/repository/shenyu.me"
 GIT_CLONE_DEST="/usr/share/nginx/html/shenyu.me"
 USER=$(whoami);
 
